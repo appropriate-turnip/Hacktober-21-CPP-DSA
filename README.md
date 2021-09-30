@@ -2,7 +2,7 @@
 <img style="text-align: center" src="./assets/header1.svg" alt="header image">
 <hr/>
 
-This repository contains all the learning resources you might need.
+This repository contains all the learning resources you might need for cpp.
 
 This collection provides a list of educational resources for Software Engineers. 
 

@@ -15,16 +15,19 @@ Help Sanju prepare the same!
 #### Input Format:
 On the first line of the standard input, there is an integer x. The next line contans integer N, denoting the number of employees. N lines follow, which contain a string and an integer, denoting the name of the employee and his salary. 
 * Sample Input:
+<pre>
 79
 4
 Eve 78
 Bob 99
 Suzy 86
 Alice 86
-
+</pre>
 #### Output Format: 
 You must print the required list. 
 * Sample Output:
+<pre>
 Bob 99
 Alice 86
 Suzy 86
+</pre>

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "iosfwd": "c",
+        "xstring": "c",
+        "xutility": "c"
+    }
+}

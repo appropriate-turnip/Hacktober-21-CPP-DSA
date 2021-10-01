@@ -20,9 +20,9 @@ Next  lines contain K*N space separated integers
 </pre>
 
 #### Output Format: 
-Space separated integers in a single line denoting strength of strongest fighters in the groups.
+Single line consisting of space separated numbers
 
 * Sample Output:
 <pre> 
-3 4 5
+0 1 2 3 4 5 6 7 8 9 10 11
 </pre>

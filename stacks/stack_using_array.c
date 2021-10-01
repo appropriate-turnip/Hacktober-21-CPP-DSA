@@ -60,9 +60,10 @@ void update(int *a,int i,int value)
 void display(int *a)
 {
    if(check_underflow())   return -1;
+   printf("\n\t stack values:");
    for(int i=top;i>=0;i--)
    {
-       printf("\n\t%d  ",a[i]);
+       printf("%d ",a[i]);
    } 
    return;
 }
@@ -97,12 +98,12 @@ int main()
             case 2: pop(a);
                     break;
             case 3: check=peek(a);
-                    if(check!=-1) printf("\n\t%d",check);
+                    if(check!=-1) printf("\n\tPeek value%d",check);
                     break;
-            case 4: printf("\n\tEnter the value for peep ");
+            case 4: printf("\n\tEnter the position for peep ");
                     scanf("%d",&x);
                     check=peep(a,x);
-                    if(check!=-1) printf("\n\t%d",check);
+                    if(check!=-1) printf("\n\tValue peeped: %d",check);
                     break;
             case 5: printf("\n\tEnter the position to update ");
                     scanf("%d",&x);

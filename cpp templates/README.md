@@ -1,0 +1,4 @@
+For more algorithms, visit https://cp-algorithms.com.
+To learn more about Algorithm, complete this coursera course https://www.coursera.org/learn/algorithms-part1
+To get more resources, visit https://github.com/lnishan/awesome-competitive-programming
+To learn different data structures for competitive programming, visit https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know/answer/Sameer-Gulati-3

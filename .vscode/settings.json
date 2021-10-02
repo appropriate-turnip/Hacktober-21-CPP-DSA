@@ -2,6 +2,10 @@
     "files.associations": {
         "iosfwd": "c",
         "xstring": "c",
-        "xutility": "c"
+        "xutility": "c",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "limits": "cpp",
+        "xiosbase": "cpp"
     }
 }

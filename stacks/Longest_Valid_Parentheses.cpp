@@ -1,14 +1,17 @@
 
 //Problem Name: Longest Valid Parentheses
+
 //Difficulty:Medium
+
 //Statement: Given a string (consisting '(' ,')' ). Find the length of longest valid parentheses.
+
 //Example:((())))()--length of longest valid parentheses is 8--->  ((()))()
 
 #include<bits/stdc++.h>
 using namespace std;
 
 
-
+// function to find length of longest valid parentheses
  int longestValidParentheses(string s)
  {
         stack<int>index;
@@ -39,7 +42,10 @@ using namespace std;
         return ans;
  }
  
-    
+
+//main function
+
+
     int main()
     {
         string s;
